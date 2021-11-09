@@ -1,0 +1,110 @@
+/* main styles */
+
+body{
+			font-family: sans-serif;
+			font-size: 18px;
+}
+
+p{
+			font-size: 14px;
+			margin-top: 8px;
+			margin-bottom: 18px;
+}
+
+h4{
+			color: #767676;
+}
+
+h5{
+			color: #505050;
+			margin-top: 16px;
+			margin-bottom: 0px;
+}
+
+
+/* class styles */
+		
+.outer{
+	text-align: center;
+}
+
+.page{
+	width:750px;
+	display: inline-block;
+	text-align:left;
+
+	padding:10px;
+	border:solid 1px;
+}
+
+.heading{
+	font-size: 24px;
+	font-weight: bold;
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+
+/* This text is in Helvetica */
+.pagefont { 
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+.swatch{
+	width:40px;
+	height:40px;
+	border:solid 1px;
+	box-shadow: 3px 3px 2px #999;
+	display: inline-block;
+}
+
+.brandcolor1{
+	background-color: #BC271A;
+}
+
+.brandcolor2{
+	background-color: #FFFFFF;
+}
+
+
+.menucolor1{
+	background-color: #FFFFFF;
+}
+
+.menucolor2{
+	background-color: #BC271A;
+}
+
+.menucolor3{
+	background-color: #505050;
+}
+
+.menucolor4{
+	background-color: #000000;
+}
+
+.pagecolor1{
+	background-color: #FFFFFF;
+}
+
+.pagecolor2{
+	background-color: #767676;
+}
+
+.pagecolor3{
+	background-color: #000000;
+}
+
+.textcolor1{
+	background-color: #000000;
+}
+
+.textcolor2{
+	background-color: #FFFFFF;
+}
+
+.textcolor3{
+	background-color: #505050;
+}
+
+
+
