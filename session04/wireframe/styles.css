@@ -1,0 +1,147 @@
+	/* main styles */
+
+	body{
+			font-family: sans-serif;
+			font-size: 18px;
+			background-color: #f2f2f2;
+	}
+		
+    .outer{
+      text-align: center;
+      
+      
+    }
+  	.page{
+  		width:750px;
+  		display: inline-block;
+  		text-align:left;
+
+  		padding:10px;
+  	
+  		background-color: #FFF;
+  	}
+
+  	.swatcharea{
+  		width:300px;
+  		position: relative;
+       display: inline-block;
+  		text-align:left;
+  		
+
+  	}
+  	.heading{
+  		font-size: 24px;
+  		font-weight: bold;
+  		padding-top:20px;
+  		padding-bottom: 20px;
+  	}
+
+  	.pagefont{
+  		font-family: helvetica, sans-serif;
+  	}
+
+  	.swatch{
+  		width:40px;
+  		height:40px;
+  		border:solid 1px;
+  		box-shadow: 3px 3px 2px #999;
+  		display: inline-block;
+  	}
+
+  	/* cvs health brand */
+
+  	.brandcolor1{
+			background-color: #BC271A;
+		}
+
+		.brandcolor2{
+			background-color: #FFFFFF;
+		}
+
+
+		.menucolor1{
+			background-color: #FFFFFF;
+		}
+
+		.menucolor2{
+		background-color: #BC271A;
+		}
+
+		.menucolor3{
+			background-color: #505050;
+		}
+
+		.menucolor4{
+			background-color: #000000;
+		}
+
+		.pagecolor1{
+			background-color: #FFFFFF;
+		}
+
+		.pagecolor2{
+			background-color: #767676;
+		}
+
+		.pagecolor3{
+			background-color: #000000;
+		}
+
+		.textcolor1{
+			background-color: #000000;
+		}
+
+		.textcolor2{
+			background-color: #FFFFFF;
+		}
+
+		.textcolor3{
+			background-color: #505050;
+		}
+
+
+		/* spin-off hobby brand */
+    
+    .hobbymenucolor1{
+  		background-color: #FFFFFF;
+  	}
+  	.hobbymenucolor2{
+  		background-color: #484848;
+  	}
+  	.hobbymenucolor3{
+  		background-color: #BC271A;
+  	}
+  	.hobbymenucolor4{
+  		background-color: #51BAD8;
+  	}
+  	.hobbypagecolor1{
+  		background-color: #FFF;
+  	}
+  	.hobbypagecolor2{
+  		background-color: #CCC;
+  	}
+
+
+  	.hobbytextcolor1{
+  		background-color: #222233;
+  	}
+  	.hobbytextcolor2{
+  		background-color: #FFFFFF;
+  	}
+  	.hobbytextcolor3{
+  		background-color: #484848;
+  	}
+
+  	.img{
+  		padding:10px;
+  		width:95%;
+  		margin-top:30px;
+}
+
+  	}
+  	.img_mobile{
+  		padding:10px;
+  		width:55%;
+  		border: 2px solid #555;
+  }
+
