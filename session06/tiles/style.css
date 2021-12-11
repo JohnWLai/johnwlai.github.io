@@ -1,0 +1,72 @@
+body{
+	margin:0;
+	padding:0;
+  background-color: #000;
+}
+
+.outer{
+  text-align: center;
+}
+
+.page{
+  position:  relative;
+	margin-top:0px;
+	background-color: #FFF;
+  max-width:1200px;
+  width:100%;
+  height:100%;
+  display: inline-block;
+  text-align: left;
+  opacity: .6;
+}
+
+.navBar{
+  position: sticky;
+  position: -webkit-sticky; /*To make sure it wors in Safari*/
+  top: 0;
+  background-color: black; 
+  z-index: 100;
+  opacity: .9;
+}
+
+.navContent{
+  position:  relative;
+  margin-top:0px;
+  max-width:1200px;
+  width:100%;
+  height:48px;
+  display: inline-block;
+  text-align: left;
+  color: white;
+}
+
+.tile{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+}
+
+.bg1{
+  background-image:  url("img/ava-bracelet.jpg");
+}
+
+.bg2{
+  background-image:  url("img/kardia-ekg.png");
+}
+
+.bg3{
+  background-image:  url("img/kardia-mobile.png");
+}
+
+.bg4{
+  background-image:  url("img/apple.png");
+}
+
+.bg5{
+  background-image:  url("img/owlet.png");
+}
+
+.bg6{
+  background-image:  url("img/garmin.jpg");
+}
+
